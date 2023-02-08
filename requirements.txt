@@ -2,4 +2,8 @@ black
 fastapi
 pytest
 pylint
+html5lib
+beautifulsoup4
+bs4
+requests
 uvicorn[standard]
