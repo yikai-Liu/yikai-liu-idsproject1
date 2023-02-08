@@ -43,7 +43,7 @@ Note this is your container name use:  `docker image ls` to find:
 
 ## CICD checker
 I have attached the workflow into the github for the continuous deployment.
-
+![CICD proof](https://github.com/yikai-Liu/yikai-liu-idsproject1/blob/main/CICD_deploy.png)
 
 
 ## AWS App Runner
