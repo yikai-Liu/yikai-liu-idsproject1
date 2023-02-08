@@ -14,7 +14,7 @@ async def crawl(source_name: str, company_name: str, num_news: int):
     companies = []
     sources = source_name.split(",")
     companies = company_name.split(",")
-    news = scrape(sources, companies, num_news, False)
+    news = scrape(sources, companies, num_news)
     return {"news": news}
 
 
