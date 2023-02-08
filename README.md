@@ -33,7 +33,7 @@ You can type whatever you want to search
 i.e. Now you have 1, the result will render 1 piece of news of google, zoom, and meta from "Forbes", "TheNewYorker", "TheNewYorkTimes" each.
 
 
-## run docker
+## Run docker
 `docker build .`
 
 Note this is your container name use:  `docker image ls` to find:
