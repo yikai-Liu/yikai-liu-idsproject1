@@ -1,4 +1,4 @@
-# fastapi
+# fastapi for Financial News Web Crawler
 Demo of FastAPI + AWS App Runner
 
 
