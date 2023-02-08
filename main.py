@@ -19,7 +19,7 @@ async def crawl(source_name: str, company_name: str, num_news: int):
 
 
 
-def scrape(sources, companies, number, groupbysource):
+def scrape(sources, companies, number):
     number = int(number)
     all_result = []
     result = {}

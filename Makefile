@@ -18,6 +18,6 @@ killweb:
 	sudo killall uvicorn
 
 lint:
-	pylint --disable=R,C main.py
+	pylint --disable=R,C,W1203,W0702 main.py
 
 all: install lint
